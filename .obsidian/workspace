@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003-Applied_Network_Lab/Lab_事項.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-Applied_Network_Lab/Lab_事項.md"
+                "file": "README.md"
               }
             }
           },
@@ -84,10 +84,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "README.md",
+    "Untitled.md",
     "003-Applied_Network_Lab/Lab_事項.md",
     "001-NTUT_Course/Buding Deep Learning Applications/Buding Deep Learning Applications 01.md",
-    "Untitled 1.md",
-    "003-Applied Network Lab/Lab_事項.md",
-    "Buding Deep Learning Applications 01.md"
+    "Untitled 1.md"
   ]
 }
