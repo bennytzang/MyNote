@@ -13,9 +13,18 @@
     "page-preview": true,
     "custom-css": true,
     "templates": true,
-    "daily-notes": true
+    "daily-notes": true,
+    "starred": false,
+    "slides": true,
+    "audio-recorder": true,
+    "outline": false,
+    "random-note": false,
+    "zk-prefixer": true
   },
   "showLineNumber": true,
   "foldIndent": true,
-  "foldHeading": true
+  "foldHeading": true,
+  "strictLineBreaks": false,
+  "promptDelete": false,
+  "useMarkdownLinks": true
 }

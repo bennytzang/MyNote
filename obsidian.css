@@ -649,15 +649,6 @@ input[type=checkbox]:checked {
 .workspace-leaf, .workspace-split > .workspace-split { min-width: 650px; min-height: 500px; }
 .workspace-split.mod-horizontal { overflow-y: auto; }
 
-/*=== Remove Yaml header from embeds ===*/
-/* Remove embed yaml first separator */
-.markdown-embed-content > hr:first-child { display: none; }
-/* Remove embed yaml content */
-.markdown-embed-content > hr:first-child + h2 { display: none; }
-/* Remove embed yaml second separator (if empty) */
-.markdown-embed-content > hr:first-child + hr { display: none; }
-/* Remove embed yaml second separator */
-.markdown-embed-content > hr:first-child + h2 + hr { display: none; }
 
 /*=== Bullet Point Relationship Lines ===*/
 .cm-hmd-list-indent, ul ul { 
@@ -678,7 +669,6 @@ ul ul::before {
   top: 0;
   bottom: 0; 
 }
-
 /* 粗體 */
 strong {
   color: red;
