@@ -643,3 +643,56 @@ input[type=checkbox]:checked {
   cursor: pointer;
   filter: hue-rotate(250deg);
 } */
+
+/* Andy Matuschak mode! */
+.workspace-split.mod-vertical { overflow-x:auto; }
+.workspace-leaf, .workspace-split > .workspace-split { min-width: 650px; min-height: 500px; }
+.workspace-split.mod-horizontal { overflow-y: auto; }
+
+/*=== Remove Yaml header from embeds ===*/
+/* Remove embed yaml first separator */
+.markdown-embed-content > hr:first-child { display: none; }
+/* Remove embed yaml content */
+.markdown-embed-content > hr:first-child + h2 { display: none; }
+/* Remove embed yaml second separator (if empty) */
+.markdown-embed-content > hr:first-child + hr { display: none; }
+/* Remove embed yaml second separator */
+.markdown-embed-content > hr:first-child + h2 + hr { display: none; }
+
+/*=== Bullet Point Relationship Lines ===*/
+.cm-hmd-list-indent, ul ul { 
+  position: relative; 
+}
+.cm-hmd-list-indent::before, ul ul::before {
+  content:'';
+  border-left: 1px solid rgba(0, 122, 255, 0.55);
+  position: absolute;
+}
+.cm-hmd-list-indent::before {
+  left: 0; 
+  top: -5px; 
+  bottom: -4px; 
+}
+ul ul::before {
+  left: -11px;
+  top: 0;
+  bottom: 0; 
+}
+
+/* 粗體 */
+strong {
+  color: red;
+}
+
+/* 斜體 */
+em {
+  color: blue;
+  --font-style: normal; /*不要斜體：刪除開頭的減號*/
+}
+
+/* 刪除 */
+s {
+  color: green;
+  text-decoration: none;
+}
+
