@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "43e07172eadcc7b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b38bdfb377eba04b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "003-Applied_Network_Lab/Lab_事項.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "745429c3be58451d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d4238a250ddf291",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c737e5638cf9e08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa4433fbdc939681",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0d4652f654b37e89",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd03219ae518d13b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "424c36ba38f0dbb0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "003-Applied_Network_Lab/Lab_事項.md"
+              }
+            }
+          },
+          {
+            "id": "ce642d0da8b32d0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "003-Applied_Network_Lab/Lab_事項.md",
+    "001-NTUT_Course/Buding Deep Learning Applications/Buding Deep Learning Applications 01.md",
+    "Untitled 1.md",
+    "003-Applied Network Lab/Lab_事項.md",
+    "Buding Deep Learning Applications 01.md"
+  ]
+}
