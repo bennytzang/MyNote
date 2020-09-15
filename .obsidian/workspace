@@ -4,29 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "2d3838e7d01f4ebf",
+        "id": "cca0cc77ffe8d8ff",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "500-Diary/2020-09-15_First Day.md",
-            "mode": "source"
+            "file": "Pasted image 2.png"
           }
         },
-        "group": "9c7bb2fc29acc427"
+        "group": "89aac292d7bf18c2"
       },
       {
-        "id": "cca0cc77ffe8d8ff",
+        "id": "8496e7cd21d63953",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "500-Diary/2020-09-15_First Day.md",
-            "mode": "preview"
+            "file": "Pasted image 2.png"
           }
         },
-        "group": "9c7bb2fc29acc427"
+        "group": "89aac292d7bf18c2"
       }
     ],
     "direction": "vertical"
@@ -61,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400
+    "width": 273
   },
   "right": {
     "id": "0d4652f654b37e89",
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500-Diary/2020-09-15_First Day.md"
+                "file": "Pasted image 2.png"
               }
             }
           },
@@ -97,10 +95,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "2020-09-15.md",
-    "900-Template/001.Diary.md",
-    "500-Diary/Untitled.md",
-    "900-Template/Youtube Videos.md",
-    "README.md"
+    "Pasted image 2.png",
+    "Pasted image.png",
+    "Pasted image 1.png",
+    "300-Applied_Network_Lab/3D printer.md",
+    "300-Applied_Network_Lab/Pasted image.png",
+    "300-Applied_Network_Lab/Lab_事項.md",
+    "200-Penguin/Untitled.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "100-NTUT_Course/New Generation wireless/New Generation wireless 01.md"
   ]
 }
