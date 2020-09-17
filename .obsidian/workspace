@@ -8,9 +8,10 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Pasted image 2.png"
+            "file": "README.md",
+            "mode": "source"
           }
         },
         "group": "89aac292d7bf18c2"
@@ -19,9 +20,10 @@
         "id": "8496e7cd21d63953",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Pasted image 2.png"
+            "file": "README.md",
+            "mode": "source"
           }
         },
         "group": "89aac292d7bf18c2"
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 2.png"
+                "file": "README.md"
               }
             }
           },
@@ -95,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "README.md",
+    "100-NTUT_Course/New Generation wireless/New Generation wireless 01.md",
+    "100-NTUT_Course/Buding Deep Learning Applications/Buding Deep Learning Applications 01.md",
+    "300-Applied_Network_Lab/Lab_事項.md",
+    "300-Applied_Network_Lab/3D printer.md",
     "Pasted image 2.png",
     "Pasted image.png",
     "Pasted image 1.png",
-    "300-Applied_Network_Lab/3D printer.md",
     "300-Applied_Network_Lab/Pasted image.png",
-    "300-Applied_Network_Lab/Lab_事項.md",
-    "200-Penguin/Untitled.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "100-NTUT_Course/New Generation wireless/New Generation wireless 01.md"
+    "200-Penguin/Untitled.md"
   ]
 }
