@@ -5,7 +5,7 @@
  - git push
 
 # git pull
- - git stash
+ - git stash (本地與遠端資料不一致時)ㄔ
  - git pull
 
 ### 參考資料
@@ -24,8 +24,3 @@
     git stash pop：从git栈中读取最近一次保存的内容，恢复工作区的相关内容。由于可能存在多个stash的内容，所以用栈来管理，pop会从最近一个stash中读取内容并恢复到工作区。
     git stash list：显示git栈内的所有备份，可以利用这个列表来决定从那个地方恢复。
     git stash clear：情况git栈。
-	
-- 1
-	- 1
-		- 1
-		- 1 

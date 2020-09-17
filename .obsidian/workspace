@@ -6,11 +6,12 @@
       {
         "id": "cca0cc77ffe8d8ff",
         "type": "leaf",
+        "dimension": 50.115118956254804,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "300-Applied_Network_Lab/3D printer.md",
             "mode": "source"
           }
         },
@@ -19,10 +20,11 @@
       {
         "id": "8496e7cd21d63953",
         "type": "leaf",
+        "dimension": 49.8848810437452,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "300-Applied_Network_Lab/3D printer.md",
             "mode": "source"
           }
         },
@@ -61,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273
+    "width": 288
   },
   "right": {
     "id": "0d4652f654b37e89",
@@ -77,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "300-Applied_Network_Lab/3D printer.md"
               }
             }
           },
@@ -97,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
-    "100-NTUT_Course/New Generation wireless/New Generation wireless 01.md",
-    "100-NTUT_Course/Buding Deep Learning Applications/Buding Deep Learning Applications 01.md",
-    "300-Applied_Network_Lab/Lab_事項.md",
     "300-Applied_Network_Lab/3D printer.md",
-    "Pasted image 2.png",
-    "Pasted image.png",
-    "Pasted image 1.png",
-    "300-Applied_Network_Lab/Pasted image.png",
-    "200-Penguin/Untitled.md"
+    "300-Applied_Network_Lab/Lab_事項.md",
+    "400-Others/Git.md",
+    "400-Others/500-Diary/2020-09-15_First Day.md",
+    "900-Template/001.Diary.md",
+    "900-Template/003.table.md",
+    "900-Template/004YAML.md",
+    "900-Template/daily-template.md",
+    "900-Template/005 Course Note.md",
+    "900-Template/Youtube Videos.md"
   ]
 }
