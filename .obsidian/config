@@ -26,5 +26,6 @@
   "foldHeading": true,
   "strictLineBreaks": false,
   "promptDelete": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }
