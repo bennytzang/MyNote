@@ -11,9 +11,22 @@
           "type": "markdown",
           "state": {
             "file": "200-Penguin/Deep Learning/function.md",
+            "mode": "source"
+          }
+        },
+        "group": "c599a06140cf09de"
+      },
+      {
+        "id": "31bb0d47b21e24e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "200-Penguin/Deep Learning/function.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "c599a06140cf09de"
       }
     ],
     "direction": "vertical"
@@ -85,14 +98,14 @@
   },
   "lastOpenFiles": [
     "200-Penguin/Deep Learning/function.md",
+    "200-Penguin/Machine Learning/002 Machine Learning - Regression Case Study.md",
+    "200-Penguin/Machine Learning/001 Machine Learning - Intro.md",
+    "Pasted image 20201020164330.png",
+    "100-NTUT_Course/Mechine Learning/Mechine Learning 001.md",
     "photo/Deep Learning/function/Pasted image 20201013162738.png",
     "Obsidian-Highlights.md",
     "500-Diary/2020-09-15_(First Day).md",
     "500-Diary/2020-09-20_(Machine Learning_supervise vs. unsupervise).md",
-    "200-Penguin/Machine Learning/002 Machine Learning - Regression Case Study.md",
-    "200-Penguin/Machine Learning/function.md",
-    "200-Penguin/Machine Learning/001 Machine Learning - Intro.md",
-    "200-Penguin/Deep Learning/Untitled.md",
-    "400-Others/Git.md"
+    "200-Penguin/Machine Learning/function.md"
   ]
 }

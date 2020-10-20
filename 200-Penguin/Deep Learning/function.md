@@ -36,3 +36,19 @@ newshape等于-1，列数等于2，行数未知，reshape后的shape等于(8, 2)
 
 例子：
 ![](Pasted%20image%2020201013164356.png)
+
+-- - 
+### enumerate()
+* 多用於在for循環中得到計數，利用它可以同時獲得索引和值，即==需要index和value值的時候可以使用enumerate==
+
+-- -
+# plt參數 
+### 直方圖hist(histagram)
+ - bins :幾條盒狀圖
+ - normed:盒狀圖所佔比例比，默認為1
+ 
+![](Pasted%20image%2020201020164408.png)
+
+### 散佈圖(Scatter plot)
+
+![](Pasted%20image%2020201020164542.png)
